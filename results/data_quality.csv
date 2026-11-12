@@ -1,0 +1,5 @@
+game,team,frames,labelled_frames,in_possession_frames,complete_shape_frames,speed_samples,speed_samples_rejected
+1,Home,145006,64611,33151,145003,1593884,835
+1,Away,145006,64611,31460,145003,1593997,722
+2,Home,141156,68049,36073,141153,1549840,2529
+2,Away,141156,68049,31976,141155,1551273,1122

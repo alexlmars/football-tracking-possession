@@ -1,0 +1,16 @@
+evaluation,fold,model,train_game,test_game,train_start_frame,train_end_frame,test_start_frame,test_end_frame,train_rows,test_rows,accuracy,roc_auc
+Game 1 blocked CV,1,Majority baseline,1,1,25,27500,29075,57725,856,812,0.500000,0.500000
+Game 1 blocked CV,1,Logistic regression,1,1,25,27500,29075,57725,856,812,0.818966,0.893324
+Game 1 blocked CV,1,Random forest,1,1,25,27500,29075,57725,856,812,0.837438,0.916917
+Game 1 blocked CV,2,Majority baseline,1,1,25,56500,59150,86800,1732,1262,0.500000,0.500000
+Game 1 blocked CV,2,Logistic regression,1,1,25,56500,59150,86800,1732,1262,0.817750,0.894902
+Game 1 blocked CV,2,Random forest,1,1,25,56500,59150,86800,1732,1262,0.835182,0.906942
+Game 1 blocked CV,3,Majority baseline,1,1,25,84850,88800,115925,2962,904,0.500000,0.500000
+Game 1 blocked CV,3,Logistic regression,1,1,25,84850,88800,115925,2962,904,0.720133,0.812338
+Game 1 blocked CV,3,Random forest,1,1,25,84850,88800,115925,2962,904,0.798673,0.871652
+Game 1 blocked CV,4,Majority baseline,1,1,25,114100,116025,143575,3886,1244,0.500000,0.500000
+Game 1 blocked CV,4,Logistic regression,1,1,25,114100,116025,143575,3886,1244,0.771704,0.855249
+Game 1 blocked CV,4,Random forest,1,1,25,114100,116025,143575,3886,1244,0.827170,0.888700
+Game 1 to Game 2,1,Majority baseline,1,2,25,143575,75,140250,5176,5450,0.500000,0.500000
+Game 1 to Game 2,1,Logistic regression,1,2,25,143575,75,140250,5176,5450,0.825138,0.879999
+Game 1 to Game 2,1,Random forest,1,2,25,143575,75,140250,5176,5450,0.832477,0.913899
